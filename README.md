@@ -14,6 +14,7 @@ Seamless Integration: The frontend and backend are connected via FastAPI, a mode
 Local Deployment: Our application can be deployed locally, allowing users to harness the power of our dental object detection model directly on their own devices. This provides privacy and ensures that sensitive patient data remains secure.
 
 Kaggle Dataset: To further contribute to the research community, we have uploaded our carefully curated dataset to Kaggle. This dataset is available for public use, enabling researchers and developers to train their own dental object detection models or enhance existing ones.
+Link: https://www.kaggle.com/datasets/salmansajid05/oral-diseases
 
 How It Works
 The user captures an image of a dental scenario using the One Touch Dentistry mobile application.
