@@ -1,4 +1,5 @@
-AI-Assisted-Oral-Disease-Detection
+**AI-Assisted-Oral-Disease-Detection**
+
 One Touch Dentistry is a research-based product that leverages computer vision technology to revolutionize the field of dentistry. Our project utilizes the YOLOv5 object detection model, combined with augmented and annotated datasets created using the MakeSense.ai website. The frontend and backend of our application are built using React Native and FastAPI, respectively, providing a seamless user experience.
 
 Key Features
